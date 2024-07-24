@@ -1,8 +1,7 @@
-# CMP301-Starter
-Starter application for CMP301 coursework
-Updated for 2020
+# CMP305 - Procedural Methods with Shaders
 
-Name: Francisco Diaz
+## Description
 
-Number: 1902654
+Procedural methods, creating mountains and sea level using imgui to generate the terrain, change the sea level, numbers of triangles, etc
 
+WARNING - Project may need re-targeted to compile. Check the version of the Windows SDK.
